@@ -55,7 +55,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/LibraryManagementSystem.git
+git clone https://github.com/Harshdixit552/LibraryManagementSystem.git
 Import Project into NetBeans
 
 Open NetBeans.
